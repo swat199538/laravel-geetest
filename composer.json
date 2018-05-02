@@ -1,0 +1,8 @@
+{
+  "name": "swat199538/laravel-geetest",
+  "description": "A Geetest Package for Laravel5",
+  "require": {
+    "php": ">=7.0",
+    "another-vendor/package": "1.*"
+  }
+}
