@@ -1,17 +1,18 @@
 {
   "name": "swat199538/laravel-geetest",
-  "description": "A Geetest Package for Laravel5",
-  "license":"MIT",
+  "description": "a geetest lib for laravel 5",
+  "license": "MIT",
   "authors": [
     {
-      "name": "codingfish",
+      "name": "swat199538",
       "email": "wangliang199538@live.com"
     }
   ],
-  "autoload": {
-    "psr-4": {
-      "Swat\\GeeTest\\": "src/"
+  "autoload":{
+    "psr-4":{
+      "Swat\\GeeTest\\":"src/"
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "dev",
+  "require": {}
 }
