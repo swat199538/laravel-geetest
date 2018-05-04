@@ -1,6 +1,7 @@
 {
   "name": "swat199538/laravel-geetest",
   "description": "A Geetest Package for Laravel5",
+  "license":"MIT",
   "authors": [
     {
       "name": "codingfish",
