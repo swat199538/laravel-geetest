@@ -3,6 +3,20 @@
   "description": "A Geetest Package for Laravel5",
   "require": {
     "php": ">=7.0",
-    "another-vendor/package": "1.*"
-  }
+    "laravel/framework": "5.*"
+  },
+  "minimum-stability":"dev",
+  "autoload": {
+    "psr-4": {
+      "Swat\\GeeTest\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Germey",
+      "email": "cqc@cuiqingcai.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": false
 }
